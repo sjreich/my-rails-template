@@ -15,3 +15,7 @@ Style/RegexpLiteral:
 
 Style/WordArray:
   Enabled: false
+
+Metrics/LineLength:
+  Exclude:
+    - config/**/*
